@@ -1,0 +1,89 @@
+{
+  "cells": [
+    {
+      "cell_type": "raw",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"wethepeople\"\n",
+        "---\n",
+        "\n",
+        "\n",
+        "**We, The People** have always been the architects of our own democracy. We are immigrants, workers, dreamers, and neighbors who have spent generations building a nation founded on participation, not passivity. Democracy is not a given—it is something we shape, protect, and renew through action. We are not bystanders to history. We get to govern. And now, as forces seek to undermine the systems we have built, it is up to us to ensure that power remains where it belongs: with the people. Change starts here, in our communities, in our states, from the ground up. **Join us.**\n",
+        "\n",
+        "\n",
+        "---"
+      ],
+      "id": "6f441a48"
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "## Colorado Congressional District 02\n",
+        "\n",
+        "This site is dedicated to residents of Colorado Congressional District 02 to **take local action in protecting democratic institutions**. While national politics can feel overwhelming, real change happens from the ground up.\n",
+        "\n",
+        "**What you'll find here:**\\\n",
+        "✅ Key issues and how they impact Colorado.\\\n",
+        "✅ How state and local leaders influence democracy.\\\n",
+        "✅ Actionable ways to get involved.\n",
+        "\n",
+        "::: cell\n",
+        "```{html}\n",
+        "<div class='tableauPlaceholder' id='viz1739036407929' style='width: 100%; height: 827px;'>\n",
+        "  <noscript>\n",
+        "    <a href='#'><img alt='Congressional Map w/ Districts' \n",
+        "      src='https://public.tableau.com/static/images/Co/CongressionalandDistrictMap/CongressionalMapwDistricts/1_rss.png' \n",
+        "      style='border: none' /></a>\n",
+        "  </noscript>\n",
+        "  <object class='tableauViz' style='display:none;'>\n",
+        "    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> \n",
+        "    <param name='embed_code_version' value='3' />\n",
+        "    <param name='site_root' value='' />\n",
+        "    <param name='name' value='CongressionalandDistrictMap/CongressionalMapwDistricts' />\n",
+        "    <param name='tabs' value='no' />\n",
+        "    <param name='toolbar' value='yes' />\n",
+        "    <param name='static_image' value='https://public.tableau.com/static/images/Co/CongressionalandDistrictMap/CongressionalMapwDistricts/1.png' />\n",
+        "    <param name='animate_transition' value='yes' />\n",
+        "    <param name='display_static_image' value='yes' />\n",
+        "    <param name='display_spinner' value='yes' />\n",
+        "    <param name='display_overlay' value='yes' />\n",
+        "    <param name='display_count' value='yes' />\n",
+        "    <param name='language' value='en-US' />\n",
+        "  </object>\n",
+        "</div>\n",
+        "\n",
+        "<script type='text/javascript'>                    \n",
+        "  var divElement = document.getElementById('viz1739036407929');                    \n",
+        "  var vizElement = divElement.getElementsByTagName('object')[0];                    \n",
+        "  if (divElement.offsetWidth > 800) { \n",
+        "    vizElement.style.width = '800px'; \n",
+        "    vizElement.style.height = '827px';\n",
+        "  } else if (divElement.offsetWidth > 500) { \n",
+        "    vizElement.style.width = '800px'; \n",
+        "    vizElement.style.height = '827px';\n",
+        "  } else { \n",
+        "    vizElement.style.width = '100%'; \n",
+        "    vizElement.style.height = '1727px';\n",
+        "  }                     \n",
+        "  var scriptElement = document.createElement('script');                    \n",
+        "  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    \n",
+        "  vizElement.parentNode.insertBefore(scriptElement, vizElement);                \n",
+        "</script>\n",
+        "```\n",
+        ":::"
+      ],
+      "id": "a5b57e6a"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

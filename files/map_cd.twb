@@ -1,0 +1,542 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20243.24.1211.0901                               -->
+<workbook original-version='18.1' source-build='2024.3.2 (20243.24.1211.0901)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AnimationOnByDefault />
+    <MapboxVectorStylesAndLayers />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <SpatialFileLayer />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='congressional_districts' inline='true' name='federated.0l1dzpy05z4a2b189478f1x3ngqc' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='congressional_districts' name='ogrdirect.0o03if400qb6hy1btfcea08liqpm'>
+            <connection class='ogrdirect' directory='C:/Users/lachenar/OneDrive - Colostate/Documents/GitProjectsWithR/wethepeople/files' filename='congressional_districts.geojson' password='' server='' tablename='' />
+          </named-connection>
+          <named-connection caption='congressional_districts (2)' name='textscan.0ji6a7q0034q5s143qztt18g3w7t'>
+            <connection class='textscan' directory='C:/Users/lachenar/OneDrive - Colostate/Documents/GitProjectsWithR/wethepeople/files' filename='congressional_districts.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation type='collection'>
+          <relation connection='ogrdirect.0o03if400qb6hy1btfcea08liqpm' name='congressional_districts.geojson' table='[congressional_districts.geojson]' type='table'>
+            <columns>
+              <column datatype='string' name='GEOID' ordinal='0' />
+              <column datatype='string' name='NAMELSAD' ordinal='1' />
+              <column datatype='string' name='STATEFP' ordinal='2' />
+              <column datatype='string' name='STATE_NAME' ordinal='3' />
+              <column datatype='spatial' name='Geometry' ordinal='4' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0ji6a7q0034q5s143qztt18g3w7t' name='congressional_districts.csv' table='[congressional_districts#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='integer' name='GEOID' ordinal='0' />
+              <column datatype='string' name='NAMELSAD' ordinal='1' />
+              <column datatype='integer' name='STATEFP' ordinal='2' />
+              <column datatype='string' name='STATE_NAME' ordinal='3' />
+            </columns>
+          </relation>
+        </relation>
+        <cols>
+          <map key='[GEOID (congressional_districts.csv)]' value='[congressional_districts.csv].[GEOID]' />
+          <map key='[GEOID]' value='[congressional_districts.geojson].[GEOID]' />
+          <map key='[Geometry]' value='[congressional_districts.geojson].[Geometry]' />
+          <map key='[NAMELSAD (congressional_districts.csv)]' value='[congressional_districts.csv].[NAMELSAD]' />
+          <map key='[NAMELSAD]' value='[congressional_districts.geojson].[NAMELSAD]' />
+          <map key='[STATEFP (congressional_districts.csv)]' value='[congressional_districts.csv].[STATEFP]' />
+          <map key='[STATEFP]' value='[congressional_districts.geojson].[STATEFP]' />
+          <map key='[STATE_NAME (congressional_districts.csv)]' value='[congressional_districts.csv].[STATE_NAME]' />
+          <map key='[STATE_NAME]' value='[congressional_districts.geojson].[STATE_NAME]' />
+        </cols>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[congressional_districts.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>GEOID</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[GEOID]</local-name>
+            <parent-name>[congressional_districts.geojson]</parent-name>
+            <remote-alias>GEOID</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <object-id>[congressional_districts.geojson_59E0EC800112496088741874661215CC]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>NAMELSAD</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[NAMELSAD]</local-name>
+            <parent-name>[congressional_districts.geojson]</parent-name>
+            <remote-alias>NAMELSAD</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <object-id>[congressional_districts.geojson_59E0EC800112496088741874661215CC]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>STATEFP</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[STATEFP]</local-name>
+            <parent-name>[congressional_districts.geojson]</parent-name>
+            <remote-alias>STATEFP</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <object-id>[congressional_districts.geojson_59E0EC800112496088741874661215CC]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>STATE_NAME</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[STATE_NAME]</local-name>
+            <parent-name>[congressional_districts.geojson]</parent-name>
+            <remote-alias>STATE_NAME</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <object-id>[congressional_districts.geojson_59E0EC800112496088741874661215CC]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Geometry</remote-name>
+            <remote-type>8</remote-type>
+            <local-name>[Geometry]</local-name>
+            <parent-name>[congressional_districts.geojson]</parent-name>
+            <remote-alias>Geometry</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>spatial</local-type>
+            <aggregation>Collect</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[congressional_districts.geojson_59E0EC800112496088741874661215CC]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>GEOID</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[GEOID (congressional_districts.csv)]</local-name>
+            <parent-name>[congressional_districts.csv]</parent-name>
+            <remote-alias>GEOID</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[congressional_districts.csv_234CBFBFC7AF4C7BB7D64FC3717CEE16]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>NAMELSAD</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[NAMELSAD (congressional_districts.csv)]</local-name>
+            <parent-name>[congressional_districts.csv]</parent-name>
+            <remote-alias>NAMELSAD</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[congressional_districts.csv_234CBFBFC7AF4C7BB7D64FC3717CEE16]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>STATEFP</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[STATEFP (congressional_districts.csv)]</local-name>
+            <parent-name>[congressional_districts.csv]</parent-name>
+            <remote-alias>STATEFP</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[congressional_districts.csv_234CBFBFC7AF4C7BB7D64FC3717CEE16]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>STATE_NAME</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[STATE_NAME (congressional_districts.csv)]</local-name>
+            <parent-name>[congressional_districts.csv]</parent-name>
+            <remote-alias>STATE_NAME</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[congressional_districts.csv_234CBFBFC7AF4C7BB7D64FC3717CEE16]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='GEOID (congressional districts.csv)' datatype='integer' name='[GEOID (congressional_districts.csv)]' role='measure' type='quantitative' />
+      <column caption='Geoid' datatype='string' name='[GEOID]' role='dimension' type='nominal' />
+      <column caption='Congressional District' datatype='string' name='[NAMELSAD (congressional_districts.csv)]' role='dimension' type='nominal' />
+      <column caption='Namelsad' datatype='string' name='[NAMELSAD]' role='dimension' type='nominal' />
+      <column caption='State' datatype='integer' name='[STATEFP (congressional_districts.csv)]' role='measure' type='quantitative' />
+      <column caption='Statefp' datatype='string' name='[STATEFP]' role='dimension' type='nominal' />
+      <column datatype='string' name='[STATE_NAME (congressional_districts.csv)]' role='dimension' semantic-role='[State].[Name]' type='nominal' />
+      <column datatype='string' name='[STATE_NAME]' role='dimension' semantic-role='[State].[Name]' type='nominal' />
+      <column caption='congressional_districts.csv' datatype='table' name='[__tableau_internal_object_id__].[congressional_districts.csv_234CBFBFC7AF4C7BB7D64FC3717CEE16]' role='measure' type='quantitative' />
+      <column caption='congressional_districts.geojson' datatype='table' name='[__tableau_internal_object_id__].[congressional_districts.geojson_59E0EC800112496088741874661215CC]' role='measure' type='quantitative' />
+      <column-instance column='[NAMELSAD (congressional_districts.csv)]' derivation='None' name='[none:NAMELSAD (congressional_districts.csv):nk]' pivot='key' type='nominal' />
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:NAMELSAD (congressional_districts.csv):nk]' palette='color_blind_10_0' type='palette'>
+            <map to='#1170aa'>
+              <bucket>&quot;Congressional District 1&quot;</bucket>
+            </map>
+            <map to='#1170aa'>
+              <bucket>&quot;Congressional District 11&quot;</bucket>
+            </map>
+            <map to='#1170aa'>
+              <bucket>&quot;Congressional District 21&quot;</bucket>
+            </map>
+            <map to='#1170aa'>
+              <bucket>&quot;Congressional District 31&quot;</bucket>
+            </map>
+            <map to='#1170aa'>
+              <bucket>&quot;Congressional District 41&quot;</bucket>
+            </map>
+            <map to='#1170aa'>
+              <bucket>&quot;Congressional District 51&quot;</bucket>
+            </map>
+            <map to='#57606c'>
+              <bucket>&quot;Congressional District 14&quot;</bucket>
+            </map>
+            <map to='#57606c'>
+              <bucket>&quot;Congressional District 24&quot;</bucket>
+            </map>
+            <map to='#57606c'>
+              <bucket>&quot;Congressional District 34&quot;</bucket>
+            </map>
+            <map to='#57606c'>
+              <bucket>&quot;Congressional District 4&quot;</bucket>
+            </map>
+            <map to='#57606c'>
+              <bucket>&quot;Congressional District 44&quot;</bucket>
+            </map>
+            <map to='#57606c'>
+              <bucket>&quot;Delegate District (at Large)&quot;</bucket>
+            </map>
+            <map to='#5fa2ce'>
+              <bucket>&quot;Congressional District 15&quot;</bucket>
+            </map>
+            <map to='#5fa2ce'>
+              <bucket>&quot;Congressional District 25&quot;</bucket>
+            </map>
+            <map to='#5fa2ce'>
+              <bucket>&quot;Congressional District 35&quot;</bucket>
+            </map>
+            <map to='#5fa2ce'>
+              <bucket>&quot;Congressional District 45&quot;</bucket>
+            </map>
+            <map to='#5fa2ce'>
+              <bucket>&quot;Congressional District 5&quot;</bucket>
+            </map>
+            <map to='#5fa2ce'>
+              <bucket>&quot;Resident Commissioner District (at Large)&quot;</bucket>
+            </map>
+            <map to='#7b848f'>
+              <bucket>&quot;Congressional District 17&quot;</bucket>
+            </map>
+            <map to='#7b848f'>
+              <bucket>&quot;Congressional District 27&quot;</bucket>
+            </map>
+            <map to='#7b848f'>
+              <bucket>&quot;Congressional District 37&quot;</bucket>
+            </map>
+            <map to='#7b848f'>
+              <bucket>&quot;Congressional District 47&quot;</bucket>
+            </map>
+            <map to='#7b848f'>
+              <bucket>&quot;Congressional District 7&quot;</bucket>
+            </map>
+            <map to='#a3acb9'>
+              <bucket>&quot;Congressional District (at Large)&quot;</bucket>
+            </map>
+            <map to='#a3acb9'>
+              <bucket>&quot;Congressional District 13&quot;</bucket>
+            </map>
+            <map to='#a3acb9'>
+              <bucket>&quot;Congressional District 23&quot;</bucket>
+            </map>
+            <map to='#a3acb9'>
+              <bucket>&quot;Congressional District 3&quot;</bucket>
+            </map>
+            <map to='#a3acb9'>
+              <bucket>&quot;Congressional District 33&quot;</bucket>
+            </map>
+            <map to='#a3acb9'>
+              <bucket>&quot;Congressional District 43&quot;</bucket>
+            </map>
+            <map to='#a3cce9'>
+              <bucket>&quot;Congressional District 18&quot;</bucket>
+            </map>
+            <map to='#a3cce9'>
+              <bucket>&quot;Congressional District 28&quot;</bucket>
+            </map>
+            <map to='#a3cce9'>
+              <bucket>&quot;Congressional District 38&quot;</bucket>
+            </map>
+            <map to='#a3cce9'>
+              <bucket>&quot;Congressional District 48&quot;</bucket>
+            </map>
+            <map to='#a3cce9'>
+              <bucket>&quot;Congressional District 8&quot;</bucket>
+            </map>
+            <map to='#c85200'>
+              <bucket>&quot;Congressional District 16&quot;</bucket>
+            </map>
+            <map to='#c85200'>
+              <bucket>&quot;Congressional District 26&quot;</bucket>
+            </map>
+            <map to='#c85200'>
+              <bucket>&quot;Congressional District 36&quot;</bucket>
+            </map>
+            <map to='#c85200'>
+              <bucket>&quot;Congressional District 46&quot;</bucket>
+            </map>
+            <map to='#c85200'>
+              <bucket>&quot;Congressional District 6&quot;</bucket>
+            </map>
+            <map to='#c8d0d9'>
+              <bucket>&quot;Congressional District 10&quot;</bucket>
+            </map>
+            <map to='#c8d0d9'>
+              <bucket>&quot;Congressional District 20&quot;</bucket>
+            </map>
+            <map to='#c8d0d9'>
+              <bucket>&quot;Congressional District 30&quot;</bucket>
+            </map>
+            <map to='#c8d0d9'>
+              <bucket>&quot;Congressional District 40&quot;</bucket>
+            </map>
+            <map to='#c8d0d9'>
+              <bucket>&quot;Congressional District 50&quot;</bucket>
+            </map>
+            <map to='#fc7d0b'>
+              <bucket>&quot;Congressional District 12&quot;</bucket>
+            </map>
+            <map to='#fc7d0b'>
+              <bucket>&quot;Congressional District 2&quot;</bucket>
+            </map>
+            <map to='#fc7d0b'>
+              <bucket>&quot;Congressional District 22&quot;</bucket>
+            </map>
+            <map to='#fc7d0b'>
+              <bucket>&quot;Congressional District 32&quot;</bucket>
+            </map>
+            <map to='#fc7d0b'>
+              <bucket>&quot;Congressional District 42&quot;</bucket>
+            </map>
+            <map to='#fc7d0b'>
+              <bucket>&quot;Congressional District 52&quot;</bucket>
+            </map>
+            <map to='#ffbc79'>
+              <bucket>&quot;Congressional District 19&quot;</bucket>
+            </map>
+            <map to='#ffbc79'>
+              <bucket>&quot;Congressional District 29&quot;</bucket>
+            </map>
+            <map to='#ffbc79'>
+              <bucket>&quot;Congressional District 39&quot;</bucket>
+            </map>
+            <map to='#ffbc79'>
+              <bucket>&quot;Congressional District 49&quot;</bucket>
+            </map>
+            <map to='#ffbc79'>
+              <bucket>&quot;Congressional District 9&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='congressional_districts.csv' id='congressional_districts.csv_234CBFBFC7AF4C7BB7D64FC3717CEE16'>
+            <properties context=''>
+              <relation connection='textscan.0ji6a7q0034q5s143qztt18g3w7t' name='congressional_districts.csv' table='[congressional_districts#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='integer' name='GEOID' ordinal='0' />
+                  <column datatype='string' name='NAMELSAD' ordinal='1' />
+                  <column datatype='integer' name='STATEFP' ordinal='2' />
+                  <column datatype='string' name='STATE_NAME' ordinal='3' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+          <object caption='congressional_districts.geojson' id='congressional_districts.geojson_59E0EC800112496088741874661215CC'>
+            <properties context=''>
+              <relation connection='ogrdirect.0o03if400qb6hy1btfcea08liqpm' name='congressional_districts.geojson' table='[congressional_districts.geojson]' type='table'>
+                <columns>
+                  <column datatype='string' name='GEOID' ordinal='0' />
+                  <column datatype='string' name='NAMELSAD' ordinal='1' />
+                  <column datatype='string' name='STATEFP' ordinal='2' />
+                  <column datatype='string' name='STATE_NAME' ordinal='3' />
+                  <column datatype='spatial' name='Geometry' ordinal='4' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+        <relationships>
+          <relationship>
+            <expression op='='>
+              <expression op='[NAMELSAD]' />
+              <expression op='[NAMELSAD (congressional_districts.csv)]' />
+            </expression>
+            <first-end-point object-id='congressional_districts.geojson_59E0EC800112496088741874661215CC' />
+            <second-end-point object-id='congressional_districts.csv_234CBFBFC7AF4C7BB7D64FC3717CEE16' />
+          </relationship>
+        </relationships>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <mapsources>
+    <mapsource name='Tableau' />
+  </mapsources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='congressional_districts' name='federated.0l1dzpy05z4a2b189478f1x3ngqc' />
+          </datasources>
+          <mapsources>
+            <mapsource name='Tableau' />
+          </mapsources>
+          <datasource-dependencies datasource='federated.0l1dzpy05z4a2b189478f1x3ngqc'>
+            <column datatype='spatial' name='[Geometry]' role='measure' type='nominal' />
+            <column caption='Congressional District' datatype='string' name='[NAMELSAD (congressional_districts.csv)]' role='dimension' type='nominal' />
+            <column datatype='string' name='[STATE_NAME]' role='dimension' semantic-role='[State].[Name]' type='nominal' />
+            <column-instance column='[Geometry]' derivation='Collect' name='[clct:Geometry:nk]' pivot='key' type='nominal' />
+            <column-instance column='[NAMELSAD (congressional_districts.csv)]' derivation='None' name='[none:NAMELSAD (congressional_districts.csv):nk]' pivot='key' type='nominal' />
+            <column-instance column='[STATE_NAME]' derivation='None' name='[none:STATE_NAME:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0l1dzpy05z4a2b189478f1x3ngqc].[none:STATE_NAME:nk]'>
+            <groupfilter function='empty-level' member='[none:STATE_NAME:nk]' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0l1dzpy05z4a2b189478f1x3ngqc].[none:STATE_NAME:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.0l1dzpy05z4a2b189478f1x3ngqc].[Longitude (generated)]' field-type='quantitative' max='31895562.147342134' min='25786348.16288593' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.0l1dzpy05z4a2b189478f1x3ngqc].[Latitude (generated)]' field-type='quantitative' max='6712296.3441903396' min='2260237.6629698863' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+          </style-rule>
+          <style-rule element='map-layer'>
+            <format attr='enabled' id='parks' value='false' />
+            <format attr='enabled' id='landcover_wood' value='false' />
+            <format attr='enabled' id='landcover_scrub' value='false' />
+            <format attr='enabled' id='landcover_grass' value='false' />
+            <format attr='enabled' id='landcover_crop' value='false' />
+            <format attr='enabled' id='admin-2-boundaries-bg' value='true' />
+            <format attr='enabled' id='admin-2-boundaries' value='true' />
+          </style-rule>
+          <style-rule element='map'>
+            <format attr='washout' value='0.0' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0l1dzpy05z4a2b189478f1x3ngqc].[none:NAMELSAD (congressional_districts.csv):nk]' />
+              <lod column='[federated.0l1dzpy05z4a2b189478f1x3ngqc].[clct:Geometry:nk]' />
+              <geometry column='[federated.0l1dzpy05z4a2b189478f1x3ngqc].[clct:Geometry:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0l1dzpy05z4a2b189478f1x3ngqc].[Latitude (generated)]</rows>
+        <cols>[federated.0l1dzpy05z4a2b189478f1x3ngqc].[Longitude (generated)]</cols>
+      </table>
+      <simple-id uuid='{B4643A15-D923-476E-8A8C-213041C412B1}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[federated.0l1dzpy05z4a2b189478f1x3ngqc].[none:STATE_NAME:nk]' type='filter' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0l1dzpy05z4a2b189478f1x3ngqc].[clct:Geometry:nk]</field>
+            <field>[federated.0l1dzpy05z4a2b189478f1x3ngqc].[none:CD118FP:nk]</field>
+            <field>[federated.0l1dzpy05z4a2b189478f1x3ngqc].[none:NAMELSAD (congressional_districts.csv):nk]</field>
+            <field>[federated.0l1dzpy05z4a2b189478f1x3ngqc].[none:NAMELSAD:nk]</field>
+            <field>[federated.0l1dzpy05z4a2b189478f1x3ngqc].[none:STATEFP (congressional_districts.csv):qk]</field>
+            <field>[federated.0l1dzpy05z4a2b189478f1x3ngqc].[none:STATE_NAME (congressional_districts.csv):nk]</field>
+            <field>[federated.0l1dzpy05z4a2b189478f1x3ngqc].[none:STATE_NAME:nk]</field>
+          </color-one-way>
+        </highlight>
+        <default-map-tool-selection tool='1' />
+      </viewpoint>
+      <simple-id uuid='{1A187587-7192-4B71-8260-70CAD1352688}' />
+    </window>
+  </windows>
+</workbook>

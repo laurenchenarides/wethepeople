@@ -3,7 +3,7 @@ project:
   output-dir: docs  # Ensure Quarto builds into /docs for GitHub Pages
 
 website:
-  title: "wethepeople"
+  title: "We, The People"
   navbar:
     left:
       - href: index.qmd
@@ -14,16 +14,22 @@ website:
         text: Take Action
       - href: pages/resources.qmd
         text: Resources
-  page-footer: "Powered by Quarto | Fork on GitHub"
+    right:
       - icon: github
         href: "https://github.com/laurenchenarides/wethepeople"
         aria-label: "GitHub Repository"
+  page-footer: "Powered by Quarto | Fork on GitHub"
 
 format:
   html:
     theme: cosmo
-    css: styles.css
     toc: true
+    highlight-style: github  # Ensures code blocks are formatted properly
 
 editor: visual
 
+execute:
+  freeze: auto  # Avoids unnecessary re-execution
+
+metadata-files:
+  - _extensions.yml  # Optional: Ensures Quarto extensions are recognized
