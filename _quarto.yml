@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs  # Ensure Quarto builds into /docs for GitHub Pages
 
 website:
   title: "wethepeople"
@@ -14,6 +15,9 @@ website:
       - href: pages/resources.qmd
         text: Resources
   page-footer: "Powered by Quarto | Fork on GitHub"
+      - icon: github
+        href: "https://github.com/laurenchenarides/wethepeople"
+        aria-label: "GitHub Repository"
 
 format:
   html:
