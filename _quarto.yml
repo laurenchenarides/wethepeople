@@ -6,8 +6,6 @@ website:
   title: "We, The People"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - href: pages/issues.qmd
         text: Major Issues
       - href: pages/action.qmd
