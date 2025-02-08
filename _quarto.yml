@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "wethepeople"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: pages/issues.qmd
+        text: Major Issues
+      - href: pages/action.qmd
+        text: Take Action
+      - href: pages/resources.qmd
+        text: Resources
+  page-footer: "Powered by Quarto | Fork on GitHub"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
