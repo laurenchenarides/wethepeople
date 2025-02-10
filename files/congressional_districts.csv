@@ -1,442 +1,442 @@
-GEOID,NAMELSAD,STATEFP,STATE_NAME
-0105,Congressional District 5,01,Alabama
-0102,Congressional District 2,01,Alabama
-0103,Congressional District 3,01,Alabama
-0104,Congressional District 4,01,Alabama
-0107,Congressional District 7,01,Alabama
-0101,Congressional District 1,01,Alabama
-0106,Congressional District 6,01,Alabama
-0200,Congressional District (at Large),02,Alaska
-0408,Congressional District 8,04,Arizona
-0401,Congressional District 1,04,Arizona
-0402,Congressional District 2,04,Arizona
-0409,Congressional District 9,04,Arizona
-0405,Congressional District 5,04,Arizona
-0406,Congressional District 6,04,Arizona
-0403,Congressional District 3,04,Arizona
-0404,Congressional District 4,04,Arizona
-0407,Congressional District 7,04,Arizona
-0503,Congressional District 3,05,Arkansas
-0504,Congressional District 4,05,Arkansas
-0501,Congressional District 1,05,Arkansas
-0502,Congressional District 2,05,Arkansas
-0644,Congressional District 44,06,California
-0609,Congressional District 9,06,California
-0638,Congressional District 38,06,California
-0632,Congressional District 32,06,California
-0612,Congressional District 12,06,California
-0610,Congressional District 10,06,California
-0652,Congressional District 52,06,California
-0603,Congressional District 3,06,California
-0607,Congressional District 7,06,California
-0647,Congressional District 47,06,California
-0604,Congressional District 4,06,California
-0635,Congressional District 35,06,California
-0646,Congressional District 46,06,California
-0605,Congressional District 5,06,California
-0633,Congressional District 33,06,California
-0616,Congressional District 16,06,California
-0621,Congressional District 21,06,California
-0626,Congressional District 26,06,California
-0627,Congressional District 27,06,California
-0631,Congressional District 31,06,California
-0634,Congressional District 34,06,California
-0639,Congressional District 39,06,California
-0642,Congressional District 42,06,California
-0628,Congressional District 28,06,California
-0620,Congressional District 20,06,California
-0645,Congressional District 45,06,California
-0601,Congressional District 1,06,California
-0651,Congressional District 51,06,California
-0606,Congressional District 6,06,California
-0608,Congressional District 8,06,California
-0641,Congressional District 41,06,California
-0618,Congressional District 18,06,California
-0650,Congressional District 50,06,California
-0649,Congressional District 49,06,California
-0625,Congressional District 25,06,California
-0636,Congressional District 36,06,California
-0643,Congressional District 43,06,California
-0648,Congressional District 48,06,California
-0630,Congressional District 30,06,California
-0602,Congressional District 2,06,California
-0615,Congressional District 15,06,California
-0614,Congressional District 14,06,California
-0622,Congressional District 22,06,California
-0629,Congressional District 29,06,California
-0637,Congressional District 37,06,California
-0640,Congressional District 40,06,California
-0619,Congressional District 19,06,California
-0613,Congressional District 13,06,California
-0623,Congressional District 23,06,California
-0611,Congressional District 11,06,California
-0617,Congressional District 17,06,California
-0624,Congressional District 24,06,California
-0804,Congressional District 4,08,Colorado
-0801,Congressional District 1,08,Colorado
-0802,Congressional District 2,08,Colorado
-0807,Congressional District 7,08,Colorado
-0808,Congressional District 8,08,Colorado
-0806,Congressional District 6,08,Colorado
-0803,Congressional District 3,08,Colorado
-0805,Congressional District 5,08,Colorado
-0901,Congressional District 1,09,Connecticut
-0903,Congressional District 3,09,Connecticut
-0905,Congressional District 5,09,Connecticut
-0902,Congressional District 2,09,Connecticut
-0904,Congressional District 4,09,Connecticut
-1000,Congressional District (at Large),10,Delaware
-1198,Delegate District (at Large),11,District of Columbia
-1203,Congressional District 3,12,Florida
-1209,Congressional District 9,12,Florida
-1214,Congressional District 14,12,Florida
-1208,Congressional District 8,12,Florida
-1202,Congressional District 2,12,Florida
-1224,Congressional District 24,12,Florida
-1211,Congressional District 11,12,Florida
-1213,Congressional District 13,12,Florida
-1218,Congressional District 18,12,Florida
-1207,Congressional District 7,12,Florida
-1223,Congressional District 23,12,Florida
-1206,Congressional District 6,12,Florida
-1226,Congressional District 26,12,Florida
-1227,Congressional District 27,12,Florida
-1204,Congressional District 4,12,Florida
-1215,Congressional District 15,12,Florida
-1217,Congressional District 17,12,Florida
-1221,Congressional District 21,12,Florida
-1201,Congressional District 1,12,Florida
-1212,Congressional District 12,12,Florida
-1216,Congressional District 16,12,Florida
-1210,Congressional District 10,12,Florida
-1222,Congressional District 22,12,Florida
-1205,Congressional District 5,12,Florida
-1228,Congressional District 28,12,Florida
-1219,Congressional District 19,12,Florida
-1225,Congressional District 25,12,Florida
-1220,Congressional District 20,12,Florida
-1302,Congressional District 2,13,Georgia
-1305,Congressional District 5,13,Georgia
-1310,Congressional District 10,13,Georgia
-1301,Congressional District 1,13,Georgia
-1311,Congressional District 11,13,Georgia
-1304,Congressional District 4,13,Georgia
-1307,Congressional District 7,13,Georgia
-1313,Congressional District 13,13,Georgia
-1308,Congressional District 8,13,Georgia
-1309,Congressional District 9,13,Georgia
-1312,Congressional District 12,13,Georgia
-1314,Congressional District 14,13,Georgia
-1303,Congressional District 3,13,Georgia
-1306,Congressional District 6,13,Georgia
-1501,Congressional District 1,15,Hawaii
-1502,Congressional District 2,15,Hawaii
-1601,Congressional District 1,16,Idaho
-1602,Congressional District 2,16,Idaho
-1701,Congressional District 1,17,Illinois
-1707,Congressional District 7,17,Illinois
-1706,Congressional District 6,17,Illinois
-1712,Congressional District 12,17,Illinois
-1702,Congressional District 2,17,Illinois
-1704,Congressional District 4,17,Illinois
-1705,Congressional District 5,17,Illinois
-1703,Congressional District 3,17,Illinois
-1714,Congressional District 14,17,Illinois
-1710,Congressional District 10,17,Illinois
-1717,Congressional District 17,17,Illinois
-1709,Congressional District 9,17,Illinois
-1708,Congressional District 8,17,Illinois
-1715,Congressional District 15,17,Illinois
-1711,Congressional District 11,17,Illinois
-1713,Congressional District 13,17,Illinois
-1716,Congressional District 16,17,Illinois
-1803,Congressional District 3,18,Indiana
-1801,Congressional District 1,18,Indiana
-1804,Congressional District 4,18,Indiana
-1802,Congressional District 2,18,Indiana
-1808,Congressional District 8,18,Indiana
-1806,Congressional District 6,18,Indiana
-1805,Congressional District 5,18,Indiana
-1809,Congressional District 9,18,Indiana
-1807,Congressional District 7,18,Indiana
-1901,Congressional District 1,19,Iowa
-1904,Congressional District 4,19,Iowa
-1903,Congressional District 3,19,Iowa
-1902,Congressional District 2,19,Iowa
-2002,Congressional District 2,20,Kansas
-2001,Congressional District 1,20,Kansas
-2004,Congressional District 4,20,Kansas
-2003,Congressional District 3,20,Kansas
-2103,Congressional District 3,21,Kentucky
-2102,Congressional District 2,21,Kentucky
-2105,Congressional District 5,21,Kentucky
-2101,Congressional District 1,21,Kentucky
-2104,Congressional District 4,21,Kentucky
-2106,Congressional District 6,21,Kentucky
-2203,Congressional District 3,22,Louisiana
-2202,Congressional District 2,22,Louisiana
-2205,Congressional District 5,22,Louisiana
-2206,Congressional District 6,22,Louisiana
-2204,Congressional District 4,22,Louisiana
-2201,Congressional District 1,22,Louisiana
-2302,Congressional District 2,23,Maine
-2301,Congressional District 1,23,Maine
-2406,Congressional District 6,24,Maryland
-2403,Congressional District 3,24,Maryland
-2405,Congressional District 5,24,Maryland
-2402,Congressional District 2,24,Maryland
-2407,Congressional District 7,24,Maryland
-2401,Congressional District 1,24,Maryland
-2408,Congressional District 8,24,Maryland
-2404,Congressional District 4,24,Maryland
-2506,Congressional District 6,25,Massachusetts
-2505,Congressional District 5,25,Massachusetts
-2508,Congressional District 8,25,Massachusetts
-2502,Congressional District 2,25,Massachusetts
-2504,Congressional District 4,25,Massachusetts
-2501,Congressional District 1,25,Massachusetts
-2507,Congressional District 7,25,Massachusetts
-2503,Congressional District 3,25,Massachusetts
-2509,Congressional District 9,25,Massachusetts
-2603,Congressional District 3,26,Michigan
-2612,Congressional District 12,26,Michigan
-2602,Congressional District 2,26,Michigan
-2613,Congressional District 13,26,Michigan
-2605,Congressional District 5,26,Michigan
-2608,Congressional District 8,26,Michigan
-2609,Congressional District 9,26,Michigan
-2606,Congressional District 6,26,Michigan
-2601,Congressional District 1,26,Michigan
-2604,Congressional District 4,26,Michigan
-2611,Congressional District 11,26,Michigan
-2607,Congressional District 7,26,Michigan
-2610,Congressional District 10,26,Michigan
-2702,Congressional District 2,27,Minnesota
-2703,Congressional District 3,27,Minnesota
-2706,Congressional District 6,27,Minnesota
-2708,Congressional District 8,27,Minnesota
-2705,Congressional District 5,27,Minnesota
-2707,Congressional District 7,27,Minnesota
-2704,Congressional District 4,27,Minnesota
-2701,Congressional District 1,27,Minnesota
-2802,Congressional District 2,28,Mississippi
-2804,Congressional District 4,28,Mississippi
-2803,Congressional District 3,28,Mississippi
-2801,Congressional District 1,28,Mississippi
-2908,Congressional District 8,29,Missouri
-2904,Congressional District 4,29,Missouri
-2906,Congressional District 6,29,Missouri
-2905,Congressional District 5,29,Missouri
-2907,Congressional District 7,29,Missouri
-2901,Congressional District 1,29,Missouri
-2903,Congressional District 3,29,Missouri
-2902,Congressional District 2,29,Missouri
-3001,Congressional District 1,30,Montana
-3002,Congressional District 2,30,Montana
-3102,Congressional District 2,31,Nebraska
-3103,Congressional District 3,31,Nebraska
-3101,Congressional District 1,31,Nebraska
-3203,Congressional District 3,32,Nevada
-3202,Congressional District 2,32,Nevada
-3204,Congressional District 4,32,Nevada
-3201,Congressional District 1,32,Nevada
-3301,Congressional District 1,33,New Hampshire
-3302,Congressional District 2,33,New Hampshire
-3408,Congressional District 8,34,New Jersey
-3401,Congressional District 1,34,New Jersey
-3412,Congressional District 12,34,New Jersey
-3409,Congressional District 9,34,New Jersey
-3405,Congressional District 5,34,New Jersey
-3407,Congressional District 7,34,New Jersey
-3411,Congressional District 11,34,New Jersey
-3410,Congressional District 10,34,New Jersey
-3406,Congressional District 6,34,New Jersey
-3403,Congressional District 3,34,New Jersey
-3404,Congressional District 4,34,New Jersey
-3402,Congressional District 2,34,New Jersey
-3502,Congressional District 2,35,New Mexico
-3503,Congressional District 3,35,New Mexico
-3501,Congressional District 1,35,New Mexico
-3617,Congressional District 17,36,New York
-3614,Congressional District 14,36,New York
-3618,Congressional District 18,36,New York
-3602,Congressional District 2,36,New York
-3612,Congressional District 12,36,New York
-3623,Congressional District 23,36,New York
-3625,Congressional District 25,36,New York
-3605,Congressional District 5,36,New York
-3608,Congressional District 8,36,New York
-3610,Congressional District 10,36,New York
-3616,Congressional District 16,36,New York
-3619,Congressional District 19,36,New York
-3620,Congressional District 20,36,New York
-3607,Congressional District 7,36,New York
-3603,Congressional District 3,36,New York
-3622,Congressional District 22,36,New York
-3606,Congressional District 6,36,New York
-3613,Congressional District 13,36,New York
-3626,Congressional District 26,36,New York
-3609,Congressional District 9,36,New York
-3601,Congressional District 1,36,New York
-3624,Congressional District 24,36,New York
-3604,Congressional District 4,36,New York
-3611,Congressional District 11,36,New York
-3615,Congressional District 15,36,New York
-3621,Congressional District 21,36,New York
-3701,Congressional District 1,37,North Carolina
-3702,Congressional District 2,37,North Carolina
-3708,Congressional District 8,37,North Carolina
-3709,Congressional District 9,37,North Carolina
-3710,Congressional District 10,37,North Carolina
-3712,Congressional District 12,37,North Carolina
-3704,Congressional District 4,37,North Carolina
-3706,Congressional District 6,37,North Carolina
-3713,Congressional District 13,37,North Carolina
-3707,Congressional District 7,37,North Carolina
-3714,Congressional District 14,37,North Carolina
-3705,Congressional District 5,37,North Carolina
-3703,Congressional District 3,37,North Carolina
-3711,Congressional District 11,37,North Carolina
-3800,Congressional District (at Large),38,North Dakota
-3904,Congressional District 4,39,Ohio
-3912,Congressional District 12,39,Ohio
-3910,Congressional District 10,39,Ohio
-3901,Congressional District 1,39,Ohio
-3913,Congressional District 13,39,Ohio
-3915,Congressional District 15,39,Ohio
-3906,Congressional District 6,39,Ohio
-3908,Congressional District 8,39,Ohio
-3907,Congressional District 7,39,Ohio
-3903,Congressional District 3,39,Ohio
-3902,Congressional District 2,39,Ohio
-3911,Congressional District 11,39,Ohio
-3905,Congressional District 5,39,Ohio
-3914,Congressional District 14,39,Ohio
-3909,Congressional District 9,39,Ohio
-4002,Congressional District 2,40,Oklahoma
-4001,Congressional District 1,40,Oklahoma
-4003,Congressional District 3,40,Oklahoma
-4004,Congressional District 4,40,Oklahoma
-4005,Congressional District 5,40,Oklahoma
-4105,Congressional District 5,41,Oregon
-4102,Congressional District 2,41,Oregon
-4106,Congressional District 6,41,Oregon
-4101,Congressional District 1,41,Oregon
-4103,Congressional District 3,41,Oregon
-4104,Congressional District 4,41,Oregon
-4215,Congressional District 15,42,Pennsylvania
-4201,Congressional District 1,42,Pennsylvania
-4205,Congressional District 5,42,Pennsylvania
-4212,Congressional District 12,42,Pennsylvania
-4213,Congressional District 13,42,Pennsylvania
-4217,Congressional District 17,42,Pennsylvania
-4208,Congressional District 8,42,Pennsylvania
-4209,Congressional District 9,42,Pennsylvania
-4204,Congressional District 4,42,Pennsylvania
-4211,Congressional District 11,42,Pennsylvania
-4207,Congressional District 7,42,Pennsylvania
-4206,Congressional District 6,42,Pennsylvania
-4210,Congressional District 10,42,Pennsylvania
-4203,Congressional District 3,42,Pennsylvania
-4214,Congressional District 14,42,Pennsylvania
-4202,Congressional District 2,42,Pennsylvania
-4216,Congressional District 16,42,Pennsylvania
-4402,Congressional District 2,44,Rhode Island
-4401,Congressional District 1,44,Rhode Island
-4505,Congressional District 5,45,South Carolina
-4507,Congressional District 7,45,South Carolina
-4501,Congressional District 1,45,South Carolina
-4506,Congressional District 6,45,South Carolina
-4504,Congressional District 4,45,South Carolina
-4503,Congressional District 3,45,South Carolina
-4502,Congressional District 2,45,South Carolina
-4600,Congressional District (at Large),46,South Dakota
-4704,Congressional District 4,47,Tennessee
-4703,Congressional District 3,47,Tennessee
-4702,Congressional District 2,47,Tennessee
-4708,Congressional District 8,47,Tennessee
-4706,Congressional District 6,47,Tennessee
-4701,Congressional District 1,47,Tennessee
-4709,Congressional District 9,47,Tennessee
-4705,Congressional District 5,47,Tennessee
-4707,Congressional District 7,47,Tennessee
-4836,Congressional District 36,48,Texas
-4830,Congressional District 30,48,Texas
-4831,Congressional District 31,48,Texas
-4807,Congressional District 7,48,Texas
-4823,Congressional District 23,48,Texas
-4818,Congressional District 18,48,Texas
-4813,Congressional District 13,48,Texas
-4826,Congressional District 26,48,Texas
-4824,Congressional District 24,48,Texas
-4808,Congressional District 8,48,Texas
-4832,Congressional District 32,48,Texas
-4817,Congressional District 17,48,Texas
-4816,Congressional District 16,48,Texas
-4801,Congressional District 1,48,Texas
-4829,Congressional District 29,48,Texas
-4809,Congressional District 9,48,Texas
-4811,Congressional District 11,48,Texas
-4812,Congressional District 12,48,Texas
-4814,Congressional District 14,48,Texas
-4838,Congressional District 38,48,Texas
-4821,Congressional District 21,48,Texas
-4825,Congressional District 25,48,Texas
-4834,Congressional District 34,48,Texas
-4820,Congressional District 20,48,Texas
-4828,Congressional District 28,48,Texas
-4833,Congressional District 33,48,Texas
-4803,Congressional District 3,48,Texas
-4837,Congressional District 37,48,Texas
-4827,Congressional District 27,48,Texas
-4802,Congressional District 2,48,Texas
-4805,Congressional District 5,48,Texas
-4819,Congressional District 19,48,Texas
-4822,Congressional District 22,48,Texas
-4804,Congressional District 4,48,Texas
-4810,Congressional District 10,48,Texas
-4835,Congressional District 35,48,Texas
-4815,Congressional District 15,48,Texas
-4806,Congressional District 6,48,Texas
-4902,Congressional District 2,49,Utah
-4903,Congressional District 3,49,Utah
-4901,Congressional District 1,49,Utah
-4904,Congressional District 4,49,Utah
-5000,Congressional District (at Large),50,Vermont
-5111,Congressional District 11,51,Virginia
-5105,Congressional District 5,51,Virginia
-5106,Congressional District 6,51,Virginia
-5109,Congressional District 9,51,Virginia
-5103,Congressional District 3,51,Virginia
-5107,Congressional District 7,51,Virginia
-5108,Congressional District 8,51,Virginia
-5104,Congressional District 4,51,Virginia
-5101,Congressional District 1,51,Virginia
-5110,Congressional District 10,51,Virginia
-5102,Congressional District 2,51,Virginia
-5303,Congressional District 3,53,Washington
-5305,Congressional District 5,53,Washington
-5301,Congressional District 1,53,Washington
-5308,Congressional District 8,53,Washington
-5304,Congressional District 4,53,Washington
-5302,Congressional District 2,53,Washington
-5309,Congressional District 9,53,Washington
-5310,Congressional District 10,53,Washington
-5306,Congressional District 6,53,Washington
-5307,Congressional District 7,53,Washington
-5402,Congressional District 2,54,West Virginia
-5401,Congressional District 1,54,West Virginia
-5508,Congressional District 8,55,Wisconsin
-5504,Congressional District 4,55,Wisconsin
-5506,Congressional District 6,55,Wisconsin
-5503,Congressional District 3,55,Wisconsin
-5502,Congressional District 2,55,Wisconsin
-5501,Congressional District 1,55,Wisconsin
-5505,Congressional District 5,55,Wisconsin
-5507,Congressional District 7,55,Wisconsin
-5600,Congressional District (at Large),56,Wyoming
-6098,Delegate District (at Large),60,American Samoa
-6698,Delegate District (at Large),66,Guam
-6998,Delegate District (at Large),69,Commonwealth of the Northern Mariana Islands
-7298,Resident Commissioner District (at Large),72,Puerto Rico
-7898,Delegate District (at Large),78,United States Virgin Islands
+"GEOID","NAMELSAD","STATEFP","STATE_NAME"
+"0105","Congressional District 5","01","Alabama"
+"0102","Congressional District 2","01","Alabama"
+"0103","Congressional District 3","01","Alabama"
+"0104","Congressional District 4","01","Alabama"
+"0107","Congressional District 7","01","Alabama"
+"0101","Congressional District 1","01","Alabama"
+"0106","Congressional District 6","01","Alabama"
+"0200","Congressional District (at Large)","02","Alaska"
+"0408","Congressional District 8","04","Arizona"
+"0401","Congressional District 1","04","Arizona"
+"0402","Congressional District 2","04","Arizona"
+"0409","Congressional District 9","04","Arizona"
+"0405","Congressional District 5","04","Arizona"
+"0406","Congressional District 6","04","Arizona"
+"0403","Congressional District 3","04","Arizona"
+"0404","Congressional District 4","04","Arizona"
+"0407","Congressional District 7","04","Arizona"
+"0503","Congressional District 3","05","Arkansas"
+"0504","Congressional District 4","05","Arkansas"
+"0501","Congressional District 1","05","Arkansas"
+"0502","Congressional District 2","05","Arkansas"
+"0644","Congressional District 44","06","California"
+"0609","Congressional District 9","06","California"
+"0638","Congressional District 38","06","California"
+"0632","Congressional District 32","06","California"
+"0612","Congressional District 12","06","California"
+"0610","Congressional District 10","06","California"
+"0652","Congressional District 52","06","California"
+"0603","Congressional District 3","06","California"
+"0607","Congressional District 7","06","California"
+"0647","Congressional District 47","06","California"
+"0604","Congressional District 4","06","California"
+"0635","Congressional District 35","06","California"
+"0646","Congressional District 46","06","California"
+"0605","Congressional District 5","06","California"
+"0633","Congressional District 33","06","California"
+"0616","Congressional District 16","06","California"
+"0621","Congressional District 21","06","California"
+"0626","Congressional District 26","06","California"
+"0627","Congressional District 27","06","California"
+"0631","Congressional District 31","06","California"
+"0634","Congressional District 34","06","California"
+"0639","Congressional District 39","06","California"
+"0642","Congressional District 42","06","California"
+"0628","Congressional District 28","06","California"
+"0620","Congressional District 20","06","California"
+"0645","Congressional District 45","06","California"
+"0601","Congressional District 1","06","California"
+"0651","Congressional District 51","06","California"
+"0606","Congressional District 6","06","California"
+"0608","Congressional District 8","06","California"
+"0641","Congressional District 41","06","California"
+"0618","Congressional District 18","06","California"
+"0650","Congressional District 50","06","California"
+"0649","Congressional District 49","06","California"
+"0625","Congressional District 25","06","California"
+"0636","Congressional District 36","06","California"
+"0643","Congressional District 43","06","California"
+"0648","Congressional District 48","06","California"
+"0630","Congressional District 30","06","California"
+"0602","Congressional District 2","06","California"
+"0615","Congressional District 15","06","California"
+"0614","Congressional District 14","06","California"
+"0622","Congressional District 22","06","California"
+"0629","Congressional District 29","06","California"
+"0637","Congressional District 37","06","California"
+"0640","Congressional District 40","06","California"
+"0619","Congressional District 19","06","California"
+"0613","Congressional District 13","06","California"
+"0623","Congressional District 23","06","California"
+"0611","Congressional District 11","06","California"
+"0617","Congressional District 17","06","California"
+"0624","Congressional District 24","06","California"
+"0804","Congressional District 4","08","Colorado"
+"0801","Congressional District 1","08","Colorado"
+"0802","Congressional District 2","08","Colorado"
+"0807","Congressional District 7","08","Colorado"
+"0808","Congressional District 8","08","Colorado"
+"0806","Congressional District 6","08","Colorado"
+"0803","Congressional District 3","08","Colorado"
+"0805","Congressional District 5","08","Colorado"
+"0901","Congressional District 1","09","Connecticut"
+"0903","Congressional District 3","09","Connecticut"
+"0905","Congressional District 5","09","Connecticut"
+"0902","Congressional District 2","09","Connecticut"
+"0904","Congressional District 4","09","Connecticut"
+"1000","Congressional District (at Large)","10","Delaware"
+"1198","Delegate District (at Large)","11","District of Columbia"
+"1203","Congressional District 3","12","Florida"
+"1209","Congressional District 9","12","Florida"
+"1214","Congressional District 14","12","Florida"
+"1208","Congressional District 8","12","Florida"
+"1202","Congressional District 2","12","Florida"
+"1224","Congressional District 24","12","Florida"
+"1211","Congressional District 11","12","Florida"
+"1213","Congressional District 13","12","Florida"
+"1218","Congressional District 18","12","Florida"
+"1207","Congressional District 7","12","Florida"
+"1223","Congressional District 23","12","Florida"
+"1206","Congressional District 6","12","Florida"
+"1226","Congressional District 26","12","Florida"
+"1227","Congressional District 27","12","Florida"
+"1204","Congressional District 4","12","Florida"
+"1215","Congressional District 15","12","Florida"
+"1217","Congressional District 17","12","Florida"
+"1221","Congressional District 21","12","Florida"
+"1201","Congressional District 1","12","Florida"
+"1212","Congressional District 12","12","Florida"
+"1216","Congressional District 16","12","Florida"
+"1210","Congressional District 10","12","Florida"
+"1222","Congressional District 22","12","Florida"
+"1205","Congressional District 5","12","Florida"
+"1228","Congressional District 28","12","Florida"
+"1219","Congressional District 19","12","Florida"
+"1225","Congressional District 25","12","Florida"
+"1220","Congressional District 20","12","Florida"
+"1302","Congressional District 2","13","Georgia"
+"1305","Congressional District 5","13","Georgia"
+"1310","Congressional District 10","13","Georgia"
+"1301","Congressional District 1","13","Georgia"
+"1311","Congressional District 11","13","Georgia"
+"1304","Congressional District 4","13","Georgia"
+"1307","Congressional District 7","13","Georgia"
+"1313","Congressional District 13","13","Georgia"
+"1308","Congressional District 8","13","Georgia"
+"1309","Congressional District 9","13","Georgia"
+"1312","Congressional District 12","13","Georgia"
+"1314","Congressional District 14","13","Georgia"
+"1303","Congressional District 3","13","Georgia"
+"1306","Congressional District 6","13","Georgia"
+"1501","Congressional District 1","15","Hawaii"
+"1502","Congressional District 2","15","Hawaii"
+"1601","Congressional District 1","16","Idaho"
+"1602","Congressional District 2","16","Idaho"
+"1701","Congressional District 1","17","Illinois"
+"1707","Congressional District 7","17","Illinois"
+"1706","Congressional District 6","17","Illinois"
+"1712","Congressional District 12","17","Illinois"
+"1702","Congressional District 2","17","Illinois"
+"1704","Congressional District 4","17","Illinois"
+"1705","Congressional District 5","17","Illinois"
+"1703","Congressional District 3","17","Illinois"
+"1714","Congressional District 14","17","Illinois"
+"1710","Congressional District 10","17","Illinois"
+"1717","Congressional District 17","17","Illinois"
+"1709","Congressional District 9","17","Illinois"
+"1708","Congressional District 8","17","Illinois"
+"1715","Congressional District 15","17","Illinois"
+"1711","Congressional District 11","17","Illinois"
+"1713","Congressional District 13","17","Illinois"
+"1716","Congressional District 16","17","Illinois"
+"1803","Congressional District 3","18","Indiana"
+"1801","Congressional District 1","18","Indiana"
+"1804","Congressional District 4","18","Indiana"
+"1802","Congressional District 2","18","Indiana"
+"1808","Congressional District 8","18","Indiana"
+"1806","Congressional District 6","18","Indiana"
+"1805","Congressional District 5","18","Indiana"
+"1809","Congressional District 9","18","Indiana"
+"1807","Congressional District 7","18","Indiana"
+"1901","Congressional District 1","19","Iowa"
+"1904","Congressional District 4","19","Iowa"
+"1903","Congressional District 3","19","Iowa"
+"1902","Congressional District 2","19","Iowa"
+"2002","Congressional District 2","20","Kansas"
+"2001","Congressional District 1","20","Kansas"
+"2004","Congressional District 4","20","Kansas"
+"2003","Congressional District 3","20","Kansas"
+"2103","Congressional District 3","21","Kentucky"
+"2102","Congressional District 2","21","Kentucky"
+"2105","Congressional District 5","21","Kentucky"
+"2101","Congressional District 1","21","Kentucky"
+"2104","Congressional District 4","21","Kentucky"
+"2106","Congressional District 6","21","Kentucky"
+"2203","Congressional District 3","22","Louisiana"
+"2202","Congressional District 2","22","Louisiana"
+"2205","Congressional District 5","22","Louisiana"
+"2206","Congressional District 6","22","Louisiana"
+"2204","Congressional District 4","22","Louisiana"
+"2201","Congressional District 1","22","Louisiana"
+"2302","Congressional District 2","23","Maine"
+"2301","Congressional District 1","23","Maine"
+"2406","Congressional District 6","24","Maryland"
+"2403","Congressional District 3","24","Maryland"
+"2405","Congressional District 5","24","Maryland"
+"2402","Congressional District 2","24","Maryland"
+"2407","Congressional District 7","24","Maryland"
+"2401","Congressional District 1","24","Maryland"
+"2408","Congressional District 8","24","Maryland"
+"2404","Congressional District 4","24","Maryland"
+"2506","Congressional District 6","25","Massachusetts"
+"2505","Congressional District 5","25","Massachusetts"
+"2508","Congressional District 8","25","Massachusetts"
+"2502","Congressional District 2","25","Massachusetts"
+"2504","Congressional District 4","25","Massachusetts"
+"2501","Congressional District 1","25","Massachusetts"
+"2507","Congressional District 7","25","Massachusetts"
+"2503","Congressional District 3","25","Massachusetts"
+"2509","Congressional District 9","25","Massachusetts"
+"2603","Congressional District 3","26","Michigan"
+"2612","Congressional District 12","26","Michigan"
+"2602","Congressional District 2","26","Michigan"
+"2613","Congressional District 13","26","Michigan"
+"2605","Congressional District 5","26","Michigan"
+"2608","Congressional District 8","26","Michigan"
+"2609","Congressional District 9","26","Michigan"
+"2606","Congressional District 6","26","Michigan"
+"2601","Congressional District 1","26","Michigan"
+"2604","Congressional District 4","26","Michigan"
+"2611","Congressional District 11","26","Michigan"
+"2607","Congressional District 7","26","Michigan"
+"2610","Congressional District 10","26","Michigan"
+"2702","Congressional District 2","27","Minnesota"
+"2703","Congressional District 3","27","Minnesota"
+"2706","Congressional District 6","27","Minnesota"
+"2708","Congressional District 8","27","Minnesota"
+"2705","Congressional District 5","27","Minnesota"
+"2707","Congressional District 7","27","Minnesota"
+"2704","Congressional District 4","27","Minnesota"
+"2701","Congressional District 1","27","Minnesota"
+"2802","Congressional District 2","28","Mississippi"
+"2804","Congressional District 4","28","Mississippi"
+"2803","Congressional District 3","28","Mississippi"
+"2801","Congressional District 1","28","Mississippi"
+"2908","Congressional District 8","29","Missouri"
+"2904","Congressional District 4","29","Missouri"
+"2906","Congressional District 6","29","Missouri"
+"2905","Congressional District 5","29","Missouri"
+"2907","Congressional District 7","29","Missouri"
+"2901","Congressional District 1","29","Missouri"
+"2903","Congressional District 3","29","Missouri"
+"2902","Congressional District 2","29","Missouri"
+"3001","Congressional District 1","30","Montana"
+"3002","Congressional District 2","30","Montana"
+"3102","Congressional District 2","31","Nebraska"
+"3103","Congressional District 3","31","Nebraska"
+"3101","Congressional District 1","31","Nebraska"
+"3203","Congressional District 3","32","Nevada"
+"3202","Congressional District 2","32","Nevada"
+"3204","Congressional District 4","32","Nevada"
+"3201","Congressional District 1","32","Nevada"
+"3301","Congressional District 1","33","New Hampshire"
+"3302","Congressional District 2","33","New Hampshire"
+"3408","Congressional District 8","34","New Jersey"
+"3401","Congressional District 1","34","New Jersey"
+"3412","Congressional District 12","34","New Jersey"
+"3409","Congressional District 9","34","New Jersey"
+"3405","Congressional District 5","34","New Jersey"
+"3407","Congressional District 7","34","New Jersey"
+"3411","Congressional District 11","34","New Jersey"
+"3410","Congressional District 10","34","New Jersey"
+"3406","Congressional District 6","34","New Jersey"
+"3403","Congressional District 3","34","New Jersey"
+"3404","Congressional District 4","34","New Jersey"
+"3402","Congressional District 2","34","New Jersey"
+"3502","Congressional District 2","35","New Mexico"
+"3503","Congressional District 3","35","New Mexico"
+"3501","Congressional District 1","35","New Mexico"
+"3617","Congressional District 17","36","New York"
+"3614","Congressional District 14","36","New York"
+"3618","Congressional District 18","36","New York"
+"3602","Congressional District 2","36","New York"
+"3612","Congressional District 12","36","New York"
+"3623","Congressional District 23","36","New York"
+"3625","Congressional District 25","36","New York"
+"3605","Congressional District 5","36","New York"
+"3608","Congressional District 8","36","New York"
+"3610","Congressional District 10","36","New York"
+"3616","Congressional District 16","36","New York"
+"3619","Congressional District 19","36","New York"
+"3620","Congressional District 20","36","New York"
+"3607","Congressional District 7","36","New York"
+"3603","Congressional District 3","36","New York"
+"3622","Congressional District 22","36","New York"
+"3606","Congressional District 6","36","New York"
+"3613","Congressional District 13","36","New York"
+"3626","Congressional District 26","36","New York"
+"3609","Congressional District 9","36","New York"
+"3601","Congressional District 1","36","New York"
+"3624","Congressional District 24","36","New York"
+"3604","Congressional District 4","36","New York"
+"3611","Congressional District 11","36","New York"
+"3615","Congressional District 15","36","New York"
+"3621","Congressional District 21","36","New York"
+"3701","Congressional District 1","37","North Carolina"
+"3702","Congressional District 2","37","North Carolina"
+"3708","Congressional District 8","37","North Carolina"
+"3709","Congressional District 9","37","North Carolina"
+"3710","Congressional District 10","37","North Carolina"
+"3712","Congressional District 12","37","North Carolina"
+"3704","Congressional District 4","37","North Carolina"
+"3706","Congressional District 6","37","North Carolina"
+"3713","Congressional District 13","37","North Carolina"
+"3707","Congressional District 7","37","North Carolina"
+"3714","Congressional District 14","37","North Carolina"
+"3705","Congressional District 5","37","North Carolina"
+"3703","Congressional District 3","37","North Carolina"
+"3711","Congressional District 11","37","North Carolina"
+"3800","Congressional District (at Large)","38","North Dakota"
+"3904","Congressional District 4","39","Ohio"
+"3912","Congressional District 12","39","Ohio"
+"3910","Congressional District 10","39","Ohio"
+"3901","Congressional District 1","39","Ohio"
+"3913","Congressional District 13","39","Ohio"
+"3915","Congressional District 15","39","Ohio"
+"3906","Congressional District 6","39","Ohio"
+"3908","Congressional District 8","39","Ohio"
+"3907","Congressional District 7","39","Ohio"
+"3903","Congressional District 3","39","Ohio"
+"3902","Congressional District 2","39","Ohio"
+"3911","Congressional District 11","39","Ohio"
+"3905","Congressional District 5","39","Ohio"
+"3914","Congressional District 14","39","Ohio"
+"3909","Congressional District 9","39","Ohio"
+"4002","Congressional District 2","40","Oklahoma"
+"4001","Congressional District 1","40","Oklahoma"
+"4003","Congressional District 3","40","Oklahoma"
+"4004","Congressional District 4","40","Oklahoma"
+"4005","Congressional District 5","40","Oklahoma"
+"4105","Congressional District 5","41","Oregon"
+"4102","Congressional District 2","41","Oregon"
+"4106","Congressional District 6","41","Oregon"
+"4101","Congressional District 1","41","Oregon"
+"4103","Congressional District 3","41","Oregon"
+"4104","Congressional District 4","41","Oregon"
+"4215","Congressional District 15","42","Pennsylvania"
+"4201","Congressional District 1","42","Pennsylvania"
+"4205","Congressional District 5","42","Pennsylvania"
+"4212","Congressional District 12","42","Pennsylvania"
+"4213","Congressional District 13","42","Pennsylvania"
+"4217","Congressional District 17","42","Pennsylvania"
+"4208","Congressional District 8","42","Pennsylvania"
+"4209","Congressional District 9","42","Pennsylvania"
+"4204","Congressional District 4","42","Pennsylvania"
+"4211","Congressional District 11","42","Pennsylvania"
+"4207","Congressional District 7","42","Pennsylvania"
+"4206","Congressional District 6","42","Pennsylvania"
+"4210","Congressional District 10","42","Pennsylvania"
+"4203","Congressional District 3","42","Pennsylvania"
+"4214","Congressional District 14","42","Pennsylvania"
+"4202","Congressional District 2","42","Pennsylvania"
+"4216","Congressional District 16","42","Pennsylvania"
+"4402","Congressional District 2","44","Rhode Island"
+"4401","Congressional District 1","44","Rhode Island"
+"4505","Congressional District 5","45","South Carolina"
+"4507","Congressional District 7","45","South Carolina"
+"4501","Congressional District 1","45","South Carolina"
+"4506","Congressional District 6","45","South Carolina"
+"4504","Congressional District 4","45","South Carolina"
+"4503","Congressional District 3","45","South Carolina"
+"4502","Congressional District 2","45","South Carolina"
+"4600","Congressional District (at Large)","46","South Dakota"
+"4704","Congressional District 4","47","Tennessee"
+"4703","Congressional District 3","47","Tennessee"
+"4702","Congressional District 2","47","Tennessee"
+"4708","Congressional District 8","47","Tennessee"
+"4706","Congressional District 6","47","Tennessee"
+"4701","Congressional District 1","47","Tennessee"
+"4709","Congressional District 9","47","Tennessee"
+"4705","Congressional District 5","47","Tennessee"
+"4707","Congressional District 7","47","Tennessee"
+"4836","Congressional District 36","48","Texas"
+"4830","Congressional District 30","48","Texas"
+"4831","Congressional District 31","48","Texas"
+"4807","Congressional District 7","48","Texas"
+"4823","Congressional District 23","48","Texas"
+"4818","Congressional District 18","48","Texas"
+"4813","Congressional District 13","48","Texas"
+"4826","Congressional District 26","48","Texas"
+"4824","Congressional District 24","48","Texas"
+"4808","Congressional District 8","48","Texas"
+"4832","Congressional District 32","48","Texas"
+"4817","Congressional District 17","48","Texas"
+"4816","Congressional District 16","48","Texas"
+"4801","Congressional District 1","48","Texas"
+"4829","Congressional District 29","48","Texas"
+"4809","Congressional District 9","48","Texas"
+"4811","Congressional District 11","48","Texas"
+"4812","Congressional District 12","48","Texas"
+"4814","Congressional District 14","48","Texas"
+"4838","Congressional District 38","48","Texas"
+"4821","Congressional District 21","48","Texas"
+"4825","Congressional District 25","48","Texas"
+"4834","Congressional District 34","48","Texas"
+"4820","Congressional District 20","48","Texas"
+"4828","Congressional District 28","48","Texas"
+"4833","Congressional District 33","48","Texas"
+"4803","Congressional District 3","48","Texas"
+"4837","Congressional District 37","48","Texas"
+"4827","Congressional District 27","48","Texas"
+"4802","Congressional District 2","48","Texas"
+"4805","Congressional District 5","48","Texas"
+"4819","Congressional District 19","48","Texas"
+"4822","Congressional District 22","48","Texas"
+"4804","Congressional District 4","48","Texas"
+"4810","Congressional District 10","48","Texas"
+"4835","Congressional District 35","48","Texas"
+"4815","Congressional District 15","48","Texas"
+"4806","Congressional District 6","48","Texas"
+"4902","Congressional District 2","49","Utah"
+"4903","Congressional District 3","49","Utah"
+"4901","Congressional District 1","49","Utah"
+"4904","Congressional District 4","49","Utah"
+"5000","Congressional District (at Large)","50","Vermont"
+"5111","Congressional District 11","51","Virginia"
+"5105","Congressional District 5","51","Virginia"
+"5106","Congressional District 6","51","Virginia"
+"5109","Congressional District 9","51","Virginia"
+"5103","Congressional District 3","51","Virginia"
+"5107","Congressional District 7","51","Virginia"
+"5108","Congressional District 8","51","Virginia"
+"5104","Congressional District 4","51","Virginia"
+"5101","Congressional District 1","51","Virginia"
+"5110","Congressional District 10","51","Virginia"
+"5102","Congressional District 2","51","Virginia"
+"5303","Congressional District 3","53","Washington"
+"5305","Congressional District 5","53","Washington"
+"5301","Congressional District 1","53","Washington"
+"5308","Congressional District 8","53","Washington"
+"5304","Congressional District 4","53","Washington"
+"5302","Congressional District 2","53","Washington"
+"5309","Congressional District 9","53","Washington"
+"5310","Congressional District 10","53","Washington"
+"5306","Congressional District 6","53","Washington"
+"5307","Congressional District 7","53","Washington"
+"5402","Congressional District 2","54","West Virginia"
+"5401","Congressional District 1","54","West Virginia"
+"5508","Congressional District 8","55","Wisconsin"
+"5504","Congressional District 4","55","Wisconsin"
+"5506","Congressional District 6","55","Wisconsin"
+"5503","Congressional District 3","55","Wisconsin"
+"5502","Congressional District 2","55","Wisconsin"
+"5501","Congressional District 1","55","Wisconsin"
+"5505","Congressional District 5","55","Wisconsin"
+"5507","Congressional District 7","55","Wisconsin"
+"5600","Congressional District (at Large)","56","Wyoming"
+"6098","Delegate District (at Large)","60","American Samoa"
+"6698","Delegate District (at Large)","66","Guam"
+"6998","Delegate District (at Large)","69","Commonwealth of the Northern Mariana Islands"
+"7298","Resident Commissioner District (at Large)","72","Puerto Rico"
+"7898","Delegate District (at Large)","78","United States Virgin Islands"

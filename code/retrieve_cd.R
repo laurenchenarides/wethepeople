@@ -31,8 +31,13 @@ cd_sf_join <- cd_sf %>%
 
 # Save data for Tableau
 write_csv(cd_sf_join %>% 
-            st_drop_geometry(), 
-          "files/congressional_districts.csv")  # Non-spatial data
+            st_drop_geometry() %>% 
+            mutate(
+              STATEFP = as.character(STATEFP),  # Ensure STATEFP remains a string
+              GEOID = as.character(GEOID)  # Ensure GEOID remains a string
+            ), 
+          "files/congressional_districts.csv", 
+          quote = "all")  # Optionally wrap text in quotes to prevent auto-conversion
 
 st_write(cd_sf_join, "files/congressional_districts.geojson", driver = "GeoJSON", append = TRUE)  # Spatial data for Tableau
 
